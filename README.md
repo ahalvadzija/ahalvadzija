@@ -2,6 +2,8 @@
 
  Welcome to my page!
  
+ I'm a Full-Stack Web Developer working in Sarajevo, Bosnia.
+ 
  - 🔭 I'm currently working as Freelance Web developer
 
 
