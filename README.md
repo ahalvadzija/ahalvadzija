@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-#### Welcome to my page!
-
 #### NOW
  
 #### I'm a Full-Stack Web Developer working in Sarajevo, 🇧🇦 Bosnia.
