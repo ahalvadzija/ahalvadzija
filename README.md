@@ -1,6 +1,8 @@
 ### Hi there 👋
 
  Welcome to my page!
+ 
+ - 🔭 I'm currently working as Freelance Web developer
 
 
 <!--
