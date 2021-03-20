@@ -10,7 +10,7 @@
 
 #### BIO
 
-- 📫 How to reach me: [twitter.com/AdnanHalvadzija](https://twitter.com/AdnanHalvadzija) or [halvadzija.adnan@gmail.com](halvadzija.adnan@gmail.com)
+- 📫 How to reach me: [twitter.com/AdnanHalvadzija](https://twitter.com/AdnanHalvadzija) or [halvadzija.adnan@gmail.com](mailto:halvadzija.adnan@gmail.com)
 
 
 <!--
