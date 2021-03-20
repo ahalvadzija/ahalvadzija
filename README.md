@@ -1,10 +1,16 @@
 ### Hi there 👋
 
- Welcome to my page!
+#### Welcome to my page!
+
+#### NOW
  
- I'm a Full-Stack Web Developer working in Sarajevo, Bosnia.
+#### I'm a Full-Stack Web Developer working in Sarajevo, 🇧🇦 Bosnia.
  
- - 🔭 I'm currently working as Freelance Web developer
+ - 🔭 I'm currently working as Freelance Web Developer
+
+#### BIO
+
+- 📫 How to reach me: [twitter.com/AdnanHalvadzija](https://twitter.com/AdnanHalvadzija) or [halvadzija.adnan@gmail.com](halvadzija.adnan@gmail.com)
 
 
 <!--
