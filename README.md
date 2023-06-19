@@ -1,4 +1,4 @@
-![Adnan Halvadzija](https://i.ibb.co/JmZ1QsY/image.png)
+![Adnan Halvadzija](https://i.ibb.co/nzByv8V/image.png)
 
 
 
