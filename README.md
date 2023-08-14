@@ -1,4 +1,4 @@
-<img src='https://i.ibb.co/nzByv8V/image.png' width='531'>
+<img src='https://i.ibb.co/6PT8zX3/welcome.png' width='531'>
 
 
 #### How to reach me? Email me at: [ahalvadzija@mail.com](mailto:ahalvadzija@mail.com)
