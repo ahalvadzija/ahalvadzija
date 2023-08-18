@@ -1,7 +1,7 @@
 <img src='https://i.ibb.co/6PT8zX3/welcome.png' width='531'>
 
 
-#### How to reach me? Email me at: [ahalvadzija@mail.com](mailto:ahalvadzija@mail.com)
+#### How to reach me? Email me at: [halvadzija.adnan@gmail.com](mailto:halvadzija.adnan@gmail.com)
 
 <!--
 **ahalvadzija/ahalvadzija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
