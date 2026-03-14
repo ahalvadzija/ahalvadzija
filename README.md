@@ -24,6 +24,7 @@
 - 📦 **ERP Inventory** - Enterprise stock management & warehouse tracking system. *(Private)*
 - 🏗️ **DevOps Pipeline** - Hardened CI/CD workflows using GitHub Actions & Docker for seamless deployments.
 - 🔍 **[Dev Log: Building QM2](https://ahalvadzija.github.io/dev_log/-building-qm2/)** - A deep dive into the engineering decisions behind a modern CLI tool.
+- 🤖 **[Dev Log: AI Evolution](https://ahalvadzija.github.io/posts/qm2-ai/)** - How I integrated Gemini AI to automate content creation.
 
 ## GitHub Activity
 
