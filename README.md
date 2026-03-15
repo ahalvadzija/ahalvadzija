@@ -1,4 +1,4 @@
-# Adnan Halvadžija 👋
+# Hi, I'm Adnan 👋
 
 📍 **Sarajevo, BiH** | 🏗️ **Backend & Systems Architect** | 🛠️ **CLI Builder**
 
@@ -17,33 +17,40 @@
 
 🍭 **[ahalvadzija.github.io](https://ahalvadzija.github.io/)** – Portfolio & engineering deep dives.
 
-## Featured Projects
+### 🚀 Current Projects
+- 📡 **RepoPulse (WIP)** - KDE Plasma widget for real-time GitHub/GitLab activity tracking (QML + JavaScript).
+- 🦞 **[qm2 (Quiz Maker 2)](https://github.com/ahalvadzija/qm2)** - AI-powered, Dockerized CLI engine for automated knowledge testing. Built for zero-friction learning with Gemini AI integration.
+- 🏗️ **DevOps Pipeline** - Hardened CI/CD workflows using GitHub Actions & Docker for seamless, deterministic deployments.
+- 🎨 **[Portfolio Architecture](https://github.com/ahalvadzija/ahalvadzija.github.io)** - The engine behind my personal site. A modular, event-driven system built with Hugo, Supabase (PostgreSQL), and Deno.
 
-- 🦞 **[qm2 (Quiz Maker 2)](https://github.com/ahalvadzija/qm2)** - Modern, Dockerized CLI engine for automated knowledge testing. 330+ tests, production-ready.
+### 🛠️ Legacy & Professional Work
 - 💳 **Fintech Backend** - High-concurrency transaction processing system built with Java & Spring Boot. *(Private)*
+- ⚕️ **Healthcare Management System** - Secure, scalable infrastructure for managing patient records and clinic workflows. *(Private)*
 - 📦 **ERP Inventory** - Enterprise stock management & warehouse tracking system. *(Private)*
-- 🏗️ **DevOps Pipeline** - Hardened CI/CD workflows using GitHub Actions & Docker for seamless deployments.
-- 🔍 **[Dev Log: Building QM2](https://ahalvadzija.github.io/dev_log/-building-qm2/)** - A deep dive into the engineering decisions behind a modern CLI tool.
-- 🤖 **[Dev Log: AI Evolution](https://ahalvadzija.github.io/posts/qm2-ai/)** - How I integrated Gemini AI to automate content creation.
 
-## GitHub Activity
+### 📝 Latest Blog Posts
+- 🤖 **[QM2 Evolution: AI Intelligence](https://ahalvadzija.github.io/posts/qm2-ai/)** - How I integrated Gemini AI to automate content creation.
+- 🚀 **[Building a High-Performance Portfolio](https://ahalvadzija.github.io/posts/github-portfolio/)** - Deep dive into an event-driven architecture using Hugo, Supabase, and Deno.
+- 🔍 **[CLI Engineering: Deep Dive](https://ahalvadzija.github.io/posts/qm2/)** - Engineering decisions behind building a modern CLI tool with 330+ tests.
+
+### GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/ahalvadzija)
 
-## What I'm Doing
+### What I'm Doing
 
 - **Refining CLI UX** - Making terminal-based tools feel as intuitive as modern web apps.
 - **Enterprise Scaling** - Optimizing Spring Boot microservices for maximum throughput.
 - **Continuous Learning** - Advancing from B2 to C1 English while mastering new DevOps patterns.
 - **Systems Engineering** - Leveraging my foundation in electrical engineering to build better software.
 
-## Education & Certs
+### Education & Certs
 
 - 🎓 **Professional IT Specialist** – UNSA Faculty of Natural Sciences and Mathematics
 - 📜 **Postman Student Expert** – Verified API Fundamentals (2026)
 - 🔌 **CS & IT Technician** – Secondary School of Electrical Engineering
 
-## Connect
+### Connect
 
 [![LinkedIn](https://img.shields.io/badge/-Adnan_Halvadžija-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halvadzija-adnan/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ahalvadzija)
